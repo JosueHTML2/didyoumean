@@ -1,0 +1,24 @@
+{
+  "name": "didyoumean",
+  "version": "1.0.0",
+  "description": "It is a package for didumean, GANG TING",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Josue Figueiredo",
+  "license": "MIT",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JosueHTML2/didyoumean.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JosueHTML2/didyoumean/issues"
+  },
+  "homepage": "https://github.com/JosueHTML2/didyoumean#readme"
+}

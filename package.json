@@ -7,6 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
+  "type": "commonjs",
+  "types": "index.d.ts",
+  "exports": {
+    "require": "./index.cjs",
+    "import": "./index.mjs"
+  },
   "author": "Josue Figueiredo",
   "license": "MIT",
   "directories": {
@@ -15,10 +21,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/JosueHTML2/didyoumean.git"
+    "url": "git+ssh://git@github.com/JosueHTML2/didUMean.git"
   },
   "bugs": {
-    "url": "https://github.com/JosueHTML2/didyoumean/issues"
+    "url": "https://github.com/JosueHTML2/didUMean/issues"
   },
-  "homepage": "https://github.com/JosueHTML2/didyoumean#readme"
+  "homepage": "https://github.com/JosueHTML2/didUMean#readme"
 }
